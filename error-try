@@ -1,0 +1,3 @@
+try:
+except SomeException as e:
+    pass
